@@ -1,0 +1,56 @@
+section {
+  margin: 1rem auto;
+  width: 90%;
+  max-width: 80rem;
+  text-align: center;
+  background-color: #f8f8f8;
+  padding: 0.5rem;
+  border-radius: 12px;
+}
+
+button {
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+  background: #382200;
+  border: 1px solid #382200;
+  color: white;
+  padding: 0.75rem 2rem;
+  border-radius: 20px;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover,
+button:active {
+  background-color: #995c00;
+  border-color: #995c00;
+}
+
+div {
+  padding: 0.75rem 2rem;
+}
+
+input {
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+  border: 1px solid #382200;
+  color: black;
+  padding: 0.7rem 1rem;
+  border-radius: 10px;
+  margin: 0.5rem;
+}
+
+.flexbox {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.fact {
+  width: 30rem;
+  height: 5rem;
+}

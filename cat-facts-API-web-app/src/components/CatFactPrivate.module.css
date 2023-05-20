@@ -1,0 +1,10 @@
+.catFactPrivate {
+  margin: 1rem;
+  padding: 0.4rem;
+  background-color: #051235;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 12px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
